@@ -1,0 +1,11 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "testctr",
+    "branch": "master"
+  },
+  "name": "TestCtr",
+  "description": "Test",
+  "version": "1.0.0"
+}
